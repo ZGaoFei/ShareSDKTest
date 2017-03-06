@@ -31,7 +31,7 @@ import cn.sharesdk.wechat.moments.WechatMoments;
 
 public class MainActivity extends AppCompatActivity {
     private String title = "title";
-    private String imageUrl = "";
+    private String imageUrl = "https://www.baidu.com/img/bd_logo1.png";
     private String content = "content";
     private String shareUrl = "";
 
